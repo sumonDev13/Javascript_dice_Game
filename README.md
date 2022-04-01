@@ -1,1 +1,1 @@
-# Javasript_dice_Game
+# Javascript_dice_Game
